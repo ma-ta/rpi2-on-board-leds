@@ -1,0 +1,124 @@
+﻿/*
+	Cascading Style Sheet
+	ENCODING: UTF-8, CRLF
+
+	============================
+	PROJECT: RPi2 on-board LEDs:
+	============================
+
+	DESCRIPTION: web GUI for controlling the Raspberry Pi 2 (Model B) on-board LEDs
+	VERSION: 0.1.1 | 2015-06
+	LANGUAGE (ISO 639-3): eng, ces
+
+	AUTHOR: Martin Tábor
+	LICENCE: IndieCity REMIX EULA (http://store.raspberrypi.com/legal/eularemix)
+	TIPs Bitcoin address: 18ftwpbU7ScjseadYBDjEr5xeSWVKUYfx3
+*/
+
+body {
+	margin: 0;
+	font-family: "Inconsolata", monospace;
+	font-size: 12pt;
+}
+#chyba {
+	margin: auto;
+	margin-bottom: 20px;
+	padding: 10px;
+	text-align: center;
+	width: 75%;
+	font-weight: bold;
+	background-color: #FFFF00;
+	border: 3px dashed #000;
+}
+#zahlavi {
+	padding: 50px 30px 50px 30px;
+	background-color: #008080;
+	color: #FFFFFF;
+	border-bottom: 3px dashed #FFFF00;
+}
+#zahlavi h1 {
+	margin: 0;
+}
+#obsah {
+	padding: 10px 0 10px 0;
+	text-align: center;
+	
+}
+.ovladace_tabulka {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+	
+}
+.ovladace_tabulka th {
+
+}
+.ovladace_tabulka th, td {
+	margin: 0;
+	padding: 0;
+	color: #FFF;
+}
+.ovladace_tlacitkoOn, .ovladace_tlacitkoOff {
+	width: 100%;
+	height: 100px;
+	text-transform: uppercase;
+	font-weight: bold;
+	cursor: pointer;
+}
+.ovladace_tlacitkoOn:hover, .ovladace_tlacitkoOff:hover {
+	background-color: #FFFF00;
+	color: #000;
+}
+.ovladace_tlacitkoOn:focus, .ovladace_tlacitkoOff:focus {
+	background-color: #FFFF00;
+	color: #000;
+}
+
+.ovladace_tlacitkoOn {
+	background-color: #008080;
+	color: #FFF;
+	border: 2px solid #008080;
+}
+.ovladace_tlacitkoOff {
+	background-color: #FFF;
+	color: #000;
+	border: 2px solid #000;
+}
+.ovladace_stav {
+	color: #000;
+	font-weight: bold;
+	text-align: center;
+}
+.ovladace_stav-zapnuto {
+	margin: auto;
+	width: 60px;
+	height: 60px;
+	padding: 40px 30px 0 30px;
+	background-color: #00FF00;
+	border: 3px dashed #000;
+	border-radius: 100px;
+}
+.ovladace_stav-vypnuto {
+	margin: auto;
+	width: 60px;
+	height: 60px;
+	padding: 40px 30px 0 30px;
+	background-color: #FF0000;
+	border: 3px dashed #000;
+	border-radius: 100px;
+}
+#zapati {
+	padding: 30px;
+	background-color: #008080;
+	color: #FFFFFF;
+	border-top: 3px dashed #FFFF00;
+}
+#prispevek {
+	display: none;
+	color: #DBDBDB;
+	font-size: 14pt;
+}
+.prispevek {
+	text-decoration: none;
+}

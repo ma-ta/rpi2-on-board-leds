@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+	<msapplication>
+		<tile>
+			<square70x70logo src="grafika/win-pinweb/tiny.png" />
+			<square150x150logo src="grafika/win-pinweb/square.png" />
+			<wide310x150logo src="grafika/win-pinweb/wide.png" />
+			<square310x310logo src="grafika/win-pinweb/large.png" />
+			<TileColor>#008080</TileColor>
+		</tile>
+	</msapplication>
+</browserconfig>
