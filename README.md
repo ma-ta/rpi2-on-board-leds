@@ -1,23 +1,20 @@
 # RPi2-on-board-LEDs
 Rozsvícení LED na desce Raspberry Pi
 
-|================================================================================|
-|                                                                                |
-|  Nápověda                                                                      |
-|  KODOVANI: UTF-8, CRLF                                                         |
-|                                                                                |
-|  ============================                                                  |
-|  PROJEKT: RPi2 on-board LEDs:                                                  |
-|  ============================                                                  |
-|                                                                                |
-|  POPIS: webové ovládací rozhraní pro on-board LEDs na Raspberry Pi 2 (Model B) |
-|  VERZE: 0.1.1 | 2015-06                                                        |
-|  JAZYK (ISO 639-3): eng, ces                                                   |
-|                                                                                |
-|  AUTOR: Martin Tábor                                                           |
-|  LICENCE: IndieCity REMIX EULA (http://store.raspberrypi.com/legal/eularemix)  |
-|                                                                                |
-|================================================================================|
+
+NÁPOVĚDA
+KODOVANI: UTF-8, CRLF
+
+============================
+PROJEKT: RPi2 on-board LEDs:
+============================
+
+POPIS: webové ovládací rozhraní pro on-board LEDs na Raspberry Pi 2 (Model B)
+VERZE: 0.1.1 | 2015-06
+JAZYK (ISO 639-3): eng, ces
+
+AUTOR: Martin Tábor
+LICENCE: IndieCity REMIX EULA (http://store.raspberrypi.com/legal/eularemix)
 
 OBSAH
 
@@ -171,11 +168,7 @@ kabely, rezistor, LED, breadboard atd…
 PŘÍJEMNOU TECHNOFILNÍ ZÁBAVU! :-)
 
 
-===========================================|
-|                                          |
-| V jednom májovém týdnu stvořil:          |
-|                                          |
-| © 2015 Martin Tábor                      |
-| tabmar420@gmail.com                      |
-|                                          |
-|==========================================|
+V jednom májovém týdnu stvořil:
+
+© 2015 Martin Tábor
+tabmar420@gmail.com
