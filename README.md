@@ -5,7 +5,7 @@ Rozsvícení LED na desce Raspberry Pi
 NÁPOVĚDA
 KODOVANI: UTF-8, CRLF
 
-============================
+
 PROJEKT: RPi2 on-board LEDs:
 ============================
 
