@@ -1,5 +1,5 @@
 # RPi2-on-board-LEDs
-Rozsvícení LED na desce Raspberry Pi
+> Rozsvícení LED na desce Raspberry Pi
 
 
 NÁPOVĚDA
@@ -14,7 +14,6 @@ VERZE: 0.1.1 | 2015-06
 JAZYK (ISO 639-3): eng, ces
 
 AUTOR: Martin Tábor
-LICENCE: IndieCity REMIX EULA (http://store.raspberrypi.com/legal/eularemix)
 
 OBSAH
 

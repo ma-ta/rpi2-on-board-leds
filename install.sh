@@ -12,8 +12,7 @@
 #	LANGUAGE (ISO 639-3): eng, ces
 #
 #	AUTHOR: Martin Tábor
-#	LICENCE: IndieCity REMIX EULA (http://store.raspberrypi.com/legal/eularemix)
-# TIPs Bitcoin address: 18ftwpbU7ScjseadYBDjEr5xeSWVKUYfx3
+# TIPs Bitcoin address:
 
 
 if [[ $EUID -ne 0 ]]; then
@@ -65,7 +64,7 @@ else
   echo You can read the file \help-LANGUAGE.txt \in your home folder.
   echo
   echo All Bitcoin tips on following address :-\):
-  echo 18ftwpbU7ScjseadYBDjEr5xeSWVKUYfx3
+  echo wallet address
   echo
   
   exit 0

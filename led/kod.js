@@ -11,8 +11,7 @@
 	LANGUAGE (ISO 639-3): eng, ces
 
 	AUTHOR: Martin Tábor
-	LICENCE: IndieCity REMIX EULA (http://store.raspberrypi.com/legal/eularemix)
-	TIPs Bitcoin address: 18ftwpbU7ScjseadYBDjEr5xeSWVKUYfx3
+	TIPs Bitcoin address:
 */
 
 function zapVyp(stav, dioda) {

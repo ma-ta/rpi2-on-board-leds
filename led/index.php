@@ -11,8 +11,7 @@
 	LANGUAGE (ISO 639-3): eng, ces
 
 	AUTHOR: Martin Tábor
-	LICENCE: IndieCity REMIX EULA (http://store.raspberrypi.com/legal/eularemix)
-	TIPs Bitcoin address: 18ftwpbU7ScjseadYBDjEr5xeSWVKUYfx3
+	TIPs Bitcoin address:
 -->
 
 <?php
@@ -184,13 +183,13 @@
 							echo("&ndash;".date("Y"));
 					?> Martin&nbsp;Tábor</p>
 					<!-- dobrovolný BTC příspěvek -->
-					<a class="prispevek" target="_blank" href="bitcoin:18ftwpbU7ScjseadYBDjEr5xeSWVKUYfx3?amount=0.1&message=RPi2-LEDs"
+					<a class="prispevek" target="_blank" href=""
 						title="Please donate ANY amount in Bitcoin">
 							<img src="grafika/donate.png" alt="přispět BTC" onclick="btcQR()" />
 					</a>	
 					<div id="prispevek">
-						<p><strong>18ftwpbU7ScjseadYBDjEr5xeSWVKUYfx3</strong></p>
-						<a class="prispevek" target="_blank" href="bitcoin:18ftwpbU7ScjseadYBDjEr5xeSWVKUYfx3?amount=0.1&message=RPi2-LEDs"
+						<p><strong>adresa peněženky</strong></p>
+						<a class="prispevek" target="_blank" href=""
 						title="Please donate ANY amount in Bitcoin (QR code for smartphone)">
 							<img id="btc-qr" src="grafika/btc-qr.svg" alt="přispět BTC" />
 						</a>
