@@ -171,4 +171,3 @@ PŘÍJEMNOU TECHNOFILNÍ ZÁBAVU! :-)
 V jednom májovém týdnu stvořil:
 
 © 2015 Martin Tábor
-tabmar420@gmail.com
