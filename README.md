@@ -1,6 +1,13 @@
 # RPi2-on-board-LEDs
 > Rozsvícení LED na desce Raspberry Pi
 
+### Screenshot:
+
+![Screenshot webové administrace](/screenshot-1.png)
+
+### Instrukce:
+
+```text
 
 NÁPOVĚDA
 KODOVANI: UTF-8, CRLF
@@ -170,3 +177,5 @@ PŘÍJEMNOU TECHNOFILNÍ ZÁBAVU! :-)
 V jednom májovém týdnu stvořil:
 
 © 2015 Martin Tábor
+
+```
