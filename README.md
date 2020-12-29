@@ -1,5 +1,5 @@
 # RPi2-on-board-LEDs
-> Rozsvícení LED na desce Raspberry Pi
+> Webové rozhraní pro ovládání LED na desce Raspberry Pi 2 Model B
 
 ### Screenshot:
 
