@@ -1,5 +1,8 @@
-# RPi2-on-board-LEDs
+# RPi2 on-board LEDs
 > Webové rozhraní pro ovládání LED na desce Raspberry Pi 2 Model B
+
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ma-ta/rpi2-on-board-leds?include_prereleases)
+![GitHub](https://img.shields.io/github/license/ma-ta/rpi2-on-board-leds)
 
 ### Screenshot:
 
